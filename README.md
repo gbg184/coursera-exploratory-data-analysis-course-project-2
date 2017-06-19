@@ -9,7 +9,7 @@ air quality standards for fine PM and for tracking the emissions of this
 pollutant into the atmosphere. Approximatly every 3 years, the EPA releases its
 database on emissions of PM_{2.5}. This database is known as the National
 Emissions Inventory (NEI). You can read more information about the NEI at the
-[[http://www.epa.gov/ttn/chief/eiinformation.html][EPA National Emissions Inventory web site]].
+[https://www.epa.gov/chief] United States Environmental Protection Agency
 
 * Questions
 - Have total emissions from PM_{2.5} decreased in the United States from 1999 to
